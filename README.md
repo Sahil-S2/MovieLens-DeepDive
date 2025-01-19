@@ -1,3 +1,4 @@
+![view-3d-cinema-theatre-room](view-3d-cinema-theatre-room.jpg)
 view-3d-cinema-theatre-room.jpg
 # Movie Analysis Project
 

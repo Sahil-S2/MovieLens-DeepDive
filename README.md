@@ -1,3 +1,4 @@
+view-3d-cinema-theatre-room.jpg
 # Movie Analysis Project
 
 Welcome to the **Movie Analysis Project** repository! This project is a comprehensive analysis of movies using a dataset containing detailed information about movies, including titles, budgets, revenues, languages, genres, and more. The project explores various aspects of the dataset to uncover interesting insights and patterns in the movie industry.
